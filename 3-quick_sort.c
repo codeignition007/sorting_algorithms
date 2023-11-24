@@ -2,7 +2,6 @@
 
 /**
  * quick_sort - sorts an array of integers in ascending order
- *
  * @array: pointer to the list array given
  * @size: size of the list array
  * Return: nothing
